@@ -33,7 +33,7 @@ div#div_foto_1 {
 
 #nossa_foto1{
 	width: 100%;
-    margin-top: 30px;
+    margin-top: 50px;
     border-radius: 40px 40px 0 0;
 }
 
@@ -94,7 +94,7 @@ header div ul li:hover {
 
 #nossa_foto2{
 	width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     border-radius: 0 0 40px 40px;
 }
 
@@ -102,6 +102,7 @@ header div ul li:hover {
 	font-size: 1.5rem;
     font-family: cursive;
     font-style: italic;
+	text-align: center;
 }
 
 #trabalhos h1 {
