@@ -1,0 +1,136 @@
+body {
+	overflow-x: hidden;
+}
+
+#home, #habilidades, header {
+	background-color: #2995edb3;
+	color: white;
+}
+
+
+header {
+	height: auto;
+}
+
+header div{
+	align-content: center;
+}
+
+header #div_titulo h1 {
+	font-size: 2.3rem;
+	text-align: center;
+	padding-top: 45px;
+}
+
+header #div_titulo h2 {
+	font-size: 2rem;
+    text-align: center;
+    text-decoration: overline;
+}
+
+div#div_foto_1 {
+}
+
+#nossa_foto1{
+	width: 100%;
+    margin-top: 30px;
+    border-radius: 40px 40px 0 0;
+}
+
+div #div_lista_historia{
+	list-style-position: inside;
+}
+
+div #div_lista_historia h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-style: italic;
+    font-size: 2.5rem;
+}
+
+div #div_lista_historia ul {
+	margin: 0;
+	padding: 0;
+}
+
+div #div_lista_historia ul li{
+	padding-bottom: 10px;
+	font-size: 1.2rem;
+	text-align: center;
+}
+
+#passoapasso{
+	background-color: #2995edb3;
+	border-radius: 20px;
+	padding: 10px;
+    margin: 10px;
+	color: #fff;
+	font-size: 20px;
+}
+
+#legenda_progresso{
+    display: flex;
+    justify-content: space-between;
+}
+
+#h1_agredecimento {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+
+#check-green {
+    font-size: 370px;
+    float: right;
+    color: green;
+}
+
+header div ul li:hover {
+	color: rgb(0, 132, 255);
+	font-weight: 600;
+	font-size: 1.8rem;
+}
+
+#nossa_foto2{
+	width: 100%;
+    margin-bottom: 30px;
+    border-radius: 0 0 40px 40px;
+}
+
+.parag_ass{
+	font-size: 1.5rem;
+    font-family: cursive;
+    font-style: italic;
+}
+
+#trabalhos h1 {
+	font-weight: 500;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+
+.tamanho-20 {
+	font-size: 20px;
+}
+
+footer {
+	background: rgb(53, 73, 110);
+	height: 65px;
+}
+
+footer div {
+	background: rgb(53, 73, 110);
+}
+
+
+
+.font-destacada {
+	text-decoration: underline;
+	font-size: 18px;
+	font-weight: 700;
+}
