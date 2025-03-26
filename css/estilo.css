@@ -135,3 +135,11 @@ footer div {
 	font-size: 18px;
 	font-weight: 700;
 }
+
+#link_pix{
+	word-break: break-word;
+}
+
+.destaque_palavras{
+	text-decoration: underline;
+}
